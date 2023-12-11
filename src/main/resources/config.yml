@@ -1,0 +1,12 @@
+configVersion: 1
+prefix: "&7[GroupManager]"
+
+port: 5432
+host: "localhost"
+user: "root"
+pass: "root"
+
+getPlayerGroup: "&fThe group for &7{player} &fis &7{group}&f."
+setPlayerGroup: "&fThe group for &7{player} &fhas been set to &7{group}&f."
+clearPlayerGroup: "&fThe group for &7{player} &fhas been cleared."
+noPlayerFound: "&fPlayer &7{player} &fcould not be found."
